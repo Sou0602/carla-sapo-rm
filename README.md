@@ -10,4 +10,4 @@ infeasible_initial_best.pth is a infeasible initial policy used to test the perf
 plot.ipynb used to gather and visulize the result of the experiments. 
 
 ## Added CARLA Compatibility
-CPO_CARLA_Sim.py and SAPO_CARLA_Sim.py
+CPO_CARLA_Sim_1.py and SAPO_CARLA_Sim_1.py - Online Versions. Working on an Offline version to use previous experiences and speed up training.
