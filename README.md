@@ -8,3 +8,6 @@ All results of Probabilistic Safe Reinforcement Learning using Control Barrier F
 The SAPO_RM.py is the implementation of SAPO-RM. CPO.py is the implementation of CPO. You can get the result of CPO and SAPO-RM by directly run Experiment_CPO.ipynb and Experiment_SAPO_RM.ipynb respectively. 
 infeasible_initial_best.pth is a infeasible initial policy used to test the performance of CPO and SAPO-RM. 
 plot.ipynb used to gather and visulize the result of the experiments. 
+
+## Added CARLA Compatibility
+CPO_CARLA_Sim.py and SAPO_CARLA_Sim.py
